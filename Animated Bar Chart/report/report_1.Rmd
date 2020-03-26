@@ -1,0 +1,12 @@
+---
+title: "Animated Chart of COVID-19 Cases Around the Globe"
+output: html_notebook
+---
+
+## *Data*
+The data that was used for all visualizations was provided by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) who shared their data on a public [Github page](https://github.com/CSSEGISandData/COVID-19).
+
+```{r getting_data}
+
+```
+

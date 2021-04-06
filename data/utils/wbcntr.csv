@@ -1,0 +1,305 @@
+country,iso2c,long,lat,income,region,population
+Aruba,AW,-70.0167,12.5167,High income,Latin America & Caribbean ,105845
+Afghanistan,AF,69.1761,34.5228,Low income,South Asia,37172386
+Africa,A9,NA,NA,Aggregates,Aggregates,NA
+Angola,AO,13.242,-8.81155,Lower middle income,Sub-Saharan Africa ,30809762
+Albania,AL,19.8172,41.3317,Upper middle income,Europe & Central Asia,2866376
+Andorra,AD,1.5218,42.5075,High income,Europe & Central Asia,77006
+Andean Region,L5,NA,NA,Aggregates,Aggregates,NA
+Arab World,1A,NA,NA,Aggregates,Aggregates,NA
+United Arab Emirates,AE,54.3705,24.4764,High income,Middle East & North Africa,9630959
+Argentina,AR,-58.4173,-34.6118,Upper middle income,Latin America & Caribbean ,44494502
+Armenia,AM,44.509,40.1596,Upper middle income,Europe & Central Asia,2951776
+American Samoa,AS,-170.691,-14.2846,Upper middle income,East Asia & Pacific,55465
+Antigua and Barbuda,AG,-61.8456,17.1175,High income,Latin America & Caribbean ,96286
+Australia,AU,149.129,-35.282,High income,East Asia & Pacific,24982688
+Austria,AT,16.3798,48.2201,High income,Europe & Central Asia,8840521
+Azerbaijan,AZ,49.8932,40.3834,Upper middle income,Europe & Central Asia,9939800
+Burundi,BI,29.3639,-3.3784,Low income,Sub-Saharan Africa ,11175378
+East Asia & Pacific (IBRD-only countries),B4,NA,NA,Aggregates,Aggregates,NA
+Europe & Central Asia (IBRD-only countries),B7,NA,NA,Aggregates,Aggregates,NA
+Belgium,BE,4.36761,50.8371,High income,Europe & Central Asia,11433256
+Benin,BJ,2.6323,6.4779,Low income,Sub-Saharan Africa ,11485048
+Burkina Faso,BF,-1.53395,12.3605,Low income,Sub-Saharan Africa ,19751535
+Bangladesh,BD,90.4113,23.7055,Lower middle income,South Asia,161356039
+Bulgaria,BG,23.3238,42.7105,Upper middle income,Europe & Central Asia,7025037
+IBRD countries classified as high income,B1,NA,NA,Aggregates,Aggregates,NA
+Bahrain,BH,50.5354,26.1921,High income,Middle East & North Africa,1569439
+"Bahamas, The",BS,-77.339,25.0661,High income,Latin America & Caribbean ,385640
+Bosnia and Herzegovina,BA,18.4214,43.8607,Upper middle income,Europe & Central Asia,3323929
+Latin America & the Caribbean (IBRD-only countries),B2,NA,NA,Aggregates,Aggregates,NA
+Belarus,BY,27.5766,53.9678,Upper middle income,Europe & Central Asia,9483499
+Belize,BZ,-88.7713,17.2534,Upper middle income,Latin America & Caribbean ,383071
+Middle East & North Africa (IBRD-only countries),B3,NA,NA,Aggregates,Aggregates,NA
+Bermuda,BM,-64.706,32.3293,High income,North America,63973
+Bolivia,BO,-66.1936,-13.9908,Lower middle income,Latin America & Caribbean ,11353142
+Brazil,BR,-47.9292,-15.7801,Upper middle income,Latin America & Caribbean ,209469333
+Barbados,BB,-59.6105,13.0935,High income,Latin America & Caribbean ,286641
+Brunei Darussalam,BN,114.946,4.94199,High income,East Asia & Pacific,428962
+Sub-Saharan Africa (IBRD-only countries),B6,NA,NA,Aggregates,Aggregates,NA
+Bhutan,BT,89.6177,27.5768,Lower middle income,South Asia,754394
+Botswana,BW,25.9201,-24.6544,Upper middle income,Sub-Saharan Africa ,2254126
+Sub-Saharan Africa (IFC classification),C9,NA,NA,Aggregates,Aggregates,NA
+Central African Republic,CF,21.6407,5.63056,Low income,Sub-Saharan Africa ,4666377
+Canada,CA,-75.6919,45.4215,High income,North America,37057765
+East Asia and the Pacific (IFC classification),C4,NA,NA,Aggregates,Aggregates,NA
+Central Europe and the Baltics,B8,NA,NA,Aggregates,Aggregates,NA
+Europe and Central Asia (IFC classification),C5,NA,NA,Aggregates,Aggregates,NA
+Switzerland,CH,7.44821,46.948,High income,Europe & Central Asia,8513227
+Channel Islands,JG,NA,NA,High income,Europe & Central Asia,170499
+Chile,CL,-70.6475,-33.475,High income,Latin America & Caribbean ,18729160
+China,CN,116.286,40.0495,Upper middle income,East Asia & Pacific,1392730000
+Cote d'Ivoire,CI,-4.0305,5.332,Lower middle income,Sub-Saharan Africa ,25069229
+Latin America and the Caribbean (IFC classification),C6,NA,NA,Aggregates,Aggregates,NA
+Middle East and North Africa (IFC classification),C7,NA,NA,Aggregates,Aggregates,NA
+Cameroon,CM,11.5174,3.8721,Lower middle income,Sub-Saharan Africa ,25216237
+"Congo, Dem. Rep.",CD,15.3222,-4.325,Low income,Sub-Saharan Africa ,84068091
+"Congo, Rep.",CG,15.2662,-4.2767,Lower middle income,Sub-Saharan Africa ,5244363
+Colombia,CO,-74.082,4.60987,Upper middle income,Latin America & Caribbean ,49648685
+Comoros,KM,43.2418,-11.6986,Lower middle income,Sub-Saharan Africa ,832322
+Cabo Verde,CV,-23.5087,14.9218,Lower middle income,Sub-Saharan Africa ,543767
+Costa Rica,CR,-84.0089,9.63701,Upper middle income,Latin America & Caribbean ,4999441
+South Asia (IFC classification),C8,NA,NA,Aggregates,Aggregates,NA
+Caribbean small states,S3,NA,NA,Aggregates,Aggregates,NA
+Cuba,CU,-82.3667,23.1333,Upper middle income,Latin America & Caribbean ,11338138
+Curacao,CW,NA,NA,High income,Latin America & Caribbean ,159800
+Cayman Islands,KY,-81.3857,19.3022,High income,Latin America & Caribbean ,64174
+Cyprus,CY,33.3736,35.1676,High income,Europe & Central Asia,1189265
+Czech Republic,CZ,14.4205,50.0878,High income,Europe & Central Asia,10629928
+East Asia & Pacific (IDA-eligible countries),D4,NA,NA,Aggregates,Aggregates,NA
+Europe & Central Asia (IDA-eligible countries),D7,NA,NA,Aggregates,Aggregates,NA
+Germany,DE,13.4115,52.5235,High income,Europe & Central Asia,82905782
+IDA countries classified as Fragile Situations,D8,NA,NA,Aggregates,Aggregates,NA
+Djibouti,DJ,43.1425,11.5806,Lower middle income,Middle East & North Africa,958920
+Latin America & the Caribbean (IDA-eligible countries),D2,NA,NA,Aggregates,Aggregates,NA
+Dominica,DM,-61.39,15.2976,Upper middle income,Latin America & Caribbean ,71625
+Middle East & North Africa (IDA-eligible countries),D3,NA,NA,Aggregates,Aggregates,NA
+IDA countries not classified as Fragile Situations,D9,NA,NA,Aggregates,Aggregates,NA
+Denmark,DK,12.5681,55.6763,High income,Europe & Central Asia,5793636
+IDA countries in Sub-Saharan Africa not classified as fragile situations ,N6,NA,NA,Aggregates,Aggregates,NA
+Dominican Republic,DO,-69.8908,18.479,Upper middle income,Latin America & Caribbean ,10627165
+South Asia (IDA-eligible countries),D5,NA,NA,Aggregates,Aggregates,NA
+IDA countries in Sub-Saharan Africa classified as fragile situations ,F6,NA,NA,Aggregates,Aggregates,NA
+Sub-Saharan Africa (IDA-eligible countries),D6,NA,NA,Aggregates,Aggregates,NA
+"IDA total, excluding Sub-Saharan Africa",6D,NA,NA,Aggregates,Aggregates,NA
+Algeria,DZ,3.05097,36.7397,Upper middle income,Middle East & North Africa,42228429
+East Asia & Pacific (excluding high income),4E,NA,NA,Aggregates,Aggregates,NA
+Early-demographic dividend,V2,NA,NA,Aggregates,Aggregates,NA
+East Asia & Pacific,Z4,NA,NA,Aggregates,Aggregates,NA
+Europe & Central Asia (excluding high income),7E,NA,NA,Aggregates,Aggregates,NA
+Europe & Central Asia,Z7,NA,NA,Aggregates,Aggregates,NA
+Ecuador,EC,-78.5243,-0.229498,Upper middle income,Latin America & Caribbean ,17084357
+"Egypt, Arab Rep.",EG,31.2461,30.0982,Lower middle income,Middle East & North Africa,98423595
+Euro area,XC,NA,NA,Aggregates,Aggregates,NA
+Eritrea,ER,38.9183,15.3315,Low income,Sub-Saharan Africa ,NA
+Spain,ES,-3.70327,40.4167,High income,Europe & Central Asia,46796540
+Estonia,EE,24.7586,59.4392,High income,Europe & Central Asia,1321977
+Ethiopia,ET,38.7468,9.02274,Low income,Sub-Saharan Africa ,109224559
+European Union,EU,NA,NA,Aggregates,Aggregates,NA
+Fragile and conflict affected situations,F1,NA,NA,Aggregates,Aggregates,NA
+Finland,FI,24.9525,60.1608,High income,Europe & Central Asia,5515525
+Fiji,FJ,178.399,-18.1149,Upper middle income,East Asia & Pacific,883483
+France,FR,2.35097,48.8566,High income,Europe & Central Asia,66977107
+Faroe Islands,FO,-6.91181,61.8926,High income,Europe & Central Asia,48497
+"Micronesia, Fed. Sts.",FM,158.185,6.91771,Lower middle income,East Asia & Pacific,112640
+"IDA countries classified as fragile situations, excluding Sub-Saharan Africa",6F,NA,NA,Aggregates,Aggregates,NA
+Gabon,GA,9.45162,0.38832,Upper middle income,Sub-Saharan Africa ,2119275
+United Kingdom,GB,-0.126236,51.5002,High income,Europe & Central Asia,66460344
+Georgia,GE,44.793,41.71,Upper middle income,Europe & Central Asia,3726549
+Ghana,GH,-0.20795,5.57045,Lower middle income,Sub-Saharan Africa ,29767108
+Gibraltar,GI,NA,NA,High income,Europe & Central Asia,33718
+Guinea,GN,-13.7,9.51667,Low income,Sub-Saharan Africa ,12414318
+"Gambia, The",GM,-16.5885,13.4495,Low income,Sub-Saharan Africa ,2280102
+Guinea-Bissau,GW,-15.1804,11.8037,Low income,Sub-Saharan Africa ,1874309
+Equatorial Guinea,GQ,8.7741,3.7523,Upper middle income,Sub-Saharan Africa ,1308974
+Greece,GR,23.7166,37.9792,High income,Europe & Central Asia,10731726
+Grenada,GD,-61.7449,12.0653,Upper middle income,Latin America & Caribbean ,111454
+Greenland,GL,-51.7214,64.1836,High income,Europe & Central Asia,56025
+Guatemala,GT,-90.5328,14.6248,Upper middle income,Latin America & Caribbean ,17247807
+Guam,GU,144.794,13.4443,High income,East Asia & Pacific,165768
+Guyana,GY,-58.1548,6.80461,Upper middle income,Latin America & Caribbean ,779004
+High income,XD,NA,NA,Aggregates,Aggregates,NA
+"Hong Kong SAR, China",HK,114.109,22.3964,High income,East Asia & Pacific,7451000
+Honduras,HN,-87.4667,15.1333,Lower middle income,Latin America & Caribbean ,9587522
+Heavily indebted poor countries (HIPC),XE,NA,NA,Aggregates,Aggregates,NA
+Croatia,HR,15.9614,45.8069,High income,Europe & Central Asia,4087843
+Haiti,HT,-72.3288,18.5392,Low income,Latin America & Caribbean ,11123176
+Hungary,HU,19.0408,47.4984,High income,Europe & Central Asia,9775564
+"IBRD, including blend",ZB,NA,NA,Aggregates,Aggregates,NA
+IBRD only,XF,NA,NA,Aggregates,Aggregates,NA
+IDA & IBRD total,ZT,NA,NA,Aggregates,Aggregates,NA
+IDA total,XG,NA,NA,Aggregates,Aggregates,NA
+IDA blend,XH,NA,NA,Aggregates,Aggregates,NA
+Indonesia,ID,106.83,-6.19752,Lower middle income,East Asia & Pacific,267663435
+IDA only,XI,NA,NA,Aggregates,Aggregates,NA
+Isle of Man,IM,-4.47928,54.1509,High income,Europe & Central Asia,84077
+India,IN,77.225,28.6353,Lower middle income,South Asia,1352617328
+Not classified,XY,NA,NA,Aggregates,Aggregates,NA
+Ireland,IE,-6.26749,53.3441,High income,Europe & Central Asia,4867309
+"Iran, Islamic Rep.",IR,51.4447,35.6878,Upper middle income,Middle East & North Africa,81800269
+Iraq,IQ,44.394,33.3302,Upper middle income,Middle East & North Africa,38433600
+Iceland,IS,-21.8952,64.1353,High income,Europe & Central Asia,352721
+Israel,IL,35.2035,31.7717,High income,Middle East & North Africa,8882800
+Italy,IT,12.4823,41.8955,High income,Europe & Central Asia,60421760
+Jamaica,JM,-76.792,17.9927,Upper middle income,Latin America & Caribbean ,2934855
+Jordan,JO,35.9263,31.9497,Upper middle income,Middle East & North Africa,9956011
+Japan,JP,139.77,35.67,High income,East Asia & Pacific,126529100
+Kazakhstan,KZ,71.4382,51.1879,Upper middle income,Europe & Central Asia,18272430
+Kenya,KE,36.8126,-1.27975,Lower middle income,Sub-Saharan Africa ,51393010
+Kyrgyz Republic,KG,74.6057,42.8851,Lower middle income,Europe & Central Asia,6322800
+Cambodia,KH,104.874,11.5556,Lower middle income,East Asia & Pacific,16249798
+Kiribati,KI,172.979,1.32905,Lower middle income,East Asia & Pacific,115847
+St. Kitts and Nevis,KN,-62.7309,17.3,High income,Latin America & Caribbean ,52441
+"Korea, Rep.",KR,126.957,37.5323,High income,East Asia & Pacific,51606633
+Kuwait,KW,47.9824,29.3721,High income,Middle East & North Africa,4137309
+Latin America & Caribbean (excluding high income),XJ,NA,NA,Aggregates,Aggregates,NA
+Lao PDR,LA,102.177,18.5826,Lower middle income,East Asia & Pacific,7061507
+Lebanon,LB,35.5134,33.8872,Upper middle income,Middle East & North Africa,6848925
+Liberia,LR,-10.7957,6.30039,Low income,Sub-Saharan Africa ,4818977
+Libya,LY,13.1072,32.8578,Upper middle income,Middle East & North Africa,6678567
+St. Lucia,LC,-60.9832,14,Upper middle income,Latin America & Caribbean ,181889
+Latin America & Caribbean ,ZJ,NA,NA,Aggregates,Aggregates,NA
+Latin America and the Caribbean,L4,NA,NA,Aggregates,Aggregates,NA
+Least developed countries: UN classification,XL,NA,NA,Aggregates,Aggregates,NA
+Low income,XM,NA,NA,Aggregates,Aggregates,NA
+Liechtenstein,LI,9.52148,47.1411,High income,Europe & Central Asia,37910
+Sri Lanka,LK,79.8528,6.92148,Upper middle income,South Asia,21670000
+Lower middle income,XN,NA,NA,Aggregates,Aggregates,NA
+Low & middle income,XO,NA,NA,Aggregates,Aggregates,NA
+Lesotho,LS,27.7167,-29.5208,Lower middle income,Sub-Saharan Africa ,2108132
+Late-demographic dividend,V3,NA,NA,Aggregates,Aggregates,NA
+Lithuania,LT,25.2799,54.6896,High income,Europe & Central Asia,2801543
+Luxembourg,LU,6.1296,49.61,High income,Europe & Central Asia,607950
+Latvia,LV,24.1048,56.9465,High income,Europe & Central Asia,1927174
+"Macao SAR, China",MO,113.55,22.1667,High income,East Asia & Pacific,631636
+St. Martin (French part),MF,NA,NA,High income,Latin America & Caribbean ,37264
+Morocco,MA,-6.8704,33.9905,Lower middle income,Middle East & North Africa,36029138
+Central America,L6,NA,NA,Aggregates,Aggregates,NA
+Monaco,MC,7.41891,43.7325,High income,Europe & Central Asia,38682
+Moldova,MD,28.8497,47.0167,Lower middle income,Europe & Central Asia,2706049
+Middle East (developing only),M1,NA,NA,Aggregates,Aggregates,NA
+Madagascar,MG,45.7167,-20.4667,Low income,Sub-Saharan Africa ,26262368
+Maldives,MV,73.5109,4.1742,Upper middle income,South Asia,515696
+Middle East & North Africa,ZQ,NA,NA,Aggregates,Aggregates,NA
+Mexico,MX,-99.1276,19.427,Upper middle income,Latin America & Caribbean ,126190788
+Marshall Islands,MH,171.135,7.11046,Upper middle income,East Asia & Pacific,58413
+Middle income,XP,NA,NA,Aggregates,Aggregates,NA
+North Macedonia,MK,21.4361,42.0024,Upper middle income,Europe & Central Asia,2082958
+Mali,ML,-7.50034,13.5667,Low income,Sub-Saharan Africa ,19077690
+Malta,MT,14.5189,35.9042,High income,Middle East & North Africa,484630
+Myanmar,MM,95.9562,21.914,Lower middle income,East Asia & Pacific,53708395
+Middle East & North Africa (excluding high income),XQ,NA,NA,Aggregates,Aggregates,NA
+Montenegro,ME,19.2595,42.4602,Upper middle income,Europe & Central Asia,622227
+Mongolia,MN,106.937,47.9129,Lower middle income,East Asia & Pacific,3170208
+Northern Mariana Islands,MP,145.765,15.1935,High income,East Asia & Pacific,56882
+Mozambique,MZ,32.5713,-25.9664,Low income,Sub-Saharan Africa ,29495962
+Mauritania,MR,-15.9824,18.2367,Lower middle income,Sub-Saharan Africa ,4403319
+Mauritius,MU,57.4977,-20.1605,Upper middle income,Sub-Saharan Africa ,1265303
+Malawi,MW,33.7703,-13.9899,Low income,Sub-Saharan Africa ,18143315
+Malaysia,MY,101.684,3.12433,Upper middle income,East Asia & Pacific,31528585
+North America,XU,NA,NA,Aggregates,Aggregates,NA
+North Africa,M2,NA,NA,Aggregates,Aggregates,NA
+Namibia,"NA",17.0931,-22.5648,Upper middle income,Sub-Saharan Africa ,2448255
+New Caledonia,NC,166.464,-22.2677,High income,East Asia & Pacific,284060
+Niger,NE,2.1073,13.514,Low income,Sub-Saharan Africa ,22442948
+Nigeria,NG,7.48906,9.05804,Lower middle income,Sub-Saharan Africa ,195874740
+Nicaragua,NI,-86.2734,12.1475,Lower middle income,Latin America & Caribbean ,6465513
+Netherlands,NL,4.89095,52.3738,High income,Europe & Central Asia,17231624
+"Non-resource rich Sub-Saharan Africa countries, of which landlocked",6L,NA,NA,Aggregates,Aggregates,NA
+Norway,NO,10.7387,59.9138,High income,Europe & Central Asia,5311916
+Nepal,NP,85.3157,27.6939,Low income,South Asia,28087871
+Non-resource rich Sub-Saharan Africa countries,6X,NA,NA,Aggregates,Aggregates,NA
+Nauru,NR,166.920867,-0.5477,Upper middle income,East Asia & Pacific,12704
+"IDA countries not classified as fragile situations, excluding Sub-Saharan Africa",6N,NA,NA,Aggregates,Aggregates,NA
+New Zealand,NZ,174.776,-41.2865,High income,East Asia & Pacific,4841000
+OECD members,OE,NA,NA,Aggregates,Aggregates,NA
+Oman,OM,58.5874,23.6105,High income,Middle East & North Africa,4829483
+Other small states,S4,NA,NA,Aggregates,Aggregates,NA
+Pakistan,PK,72.8,30.5167,Lower middle income,South Asia,212215030
+Panama,PA,-79.5188,8.99427,High income,Latin America & Caribbean ,4176873
+Peru,PE,-77.0465,-12.0931,Upper middle income,Latin America & Caribbean ,31989256
+Philippines,PH,121.035,14.5515,Lower middle income,East Asia & Pacific,106651922
+Palau,PW,134.479,7.34194,High income,East Asia & Pacific,17907
+Papua New Guinea,PG,147.194,-9.47357,Lower middle income,East Asia & Pacific,8606316
+Poland,PL,21.02,52.26,High income,Europe & Central Asia,37974750
+Pre-demographic dividend,V1,NA,NA,Aggregates,Aggregates,NA
+Puerto Rico,PR,-66,18.23,High income,Latin America & Caribbean ,3195153
+"Korea, Dem. People’s Rep.",KP,125.754,39.0319,Low income,East Asia & Pacific,25549819
+Portugal,PT,-9.13552,38.7072,High income,Europe & Central Asia,10283822
+Paraguay,PY,-57.6362,-25.3005,Upper middle income,Latin America & Caribbean ,6956071
+West Bank and Gaza,PS,NA,NA,Lower middle income,Middle East & North Africa,4569087
+Pacific island small states,S2,NA,NA,Aggregates,Aggregates,NA
+Post-demographic dividend,V4,NA,NA,Aggregates,Aggregates,NA
+French Polynesia,PF,-149.57,-17.535,High income,East Asia & Pacific,277679
+Qatar,QA,51.5082,25.2948,High income,Middle East & North Africa,2781677
+Romania,RO,26.0979,44.4479,Upper middle income,Europe & Central Asia,19466145
+Resource rich Sub-Saharan Africa countries,R6,NA,NA,Aggregates,Aggregates,NA
+"Resource rich Sub-Saharan Africa countries, of which oil exporters",O6,NA,NA,Aggregates,Aggregates,NA
+Russian Federation,RU,37.6176,55.7558,Upper middle income,Europe & Central Asia,144478050
+Rwanda,RW,30.0587,-1.95325,Low income,Sub-Saharan Africa ,12301939
+South Asia,8S,NA,NA,Aggregates,Aggregates,NA
+Saudi Arabia,SA,46.6977,24.6748,High income,Middle East & North Africa,33699947
+Southern Cone,L7,NA,NA,Aggregates,Aggregates,NA
+Sudan,SD,32.5363,15.5932,Lower middle income,Sub-Saharan Africa ,41801533
+Senegal,SN,-17.4734,14.7247,Lower middle income,Sub-Saharan Africa ,15854360
+Singapore,SG,103.85,1.28941,High income,East Asia & Pacific,5638676
+Solomon Islands,SB,159.949,-9.42676,Lower middle income,East Asia & Pacific,652858
+Sierra Leone,SL,-13.2134,8.4821,Low income,Sub-Saharan Africa ,7650154
+El Salvador,SV,-89.2073,13.7034,Lower middle income,Latin America & Caribbean ,6420744
+San Marino,SM,12.4486,43.9322,High income,Europe & Central Asia,33785
+Somalia,SO,45.3254,2.07515,Low income,Sub-Saharan Africa ,15008154
+Serbia,RS,20.4656,44.8024,Upper middle income,Europe & Central Asia,6982604
+Sub-Saharan Africa (excluding high income),ZF,NA,NA,Aggregates,Aggregates,NA
+South Sudan,SS,31.6,4.85,Low income,Sub-Saharan Africa ,10975920
+Sub-Saharan Africa ,ZG,NA,NA,Aggregates,Aggregates,NA
+Small states,S1,NA,NA,Aggregates,Aggregates,NA
+Sao Tome and Principe,ST,6.6071,0.20618,Lower middle income,Sub-Saharan Africa ,211028
+Suriname,SR,-55.1679,5.8232,Upper middle income,Latin America & Caribbean ,575991
+Slovak Republic,SK,17.1073,48.1484,High income,Europe & Central Asia,5446771
+Slovenia,SI,14.5044,46.0546,High income,Europe & Central Asia,2073894
+Sweden,SE,18.0645,59.3327,High income,Europe & Central Asia,10175214
+Eswatini,SZ,31.4659,-26.5225,Lower middle income,Sub-Saharan Africa ,1136191
+Sint Maarten (Dutch part),SX,NA,NA,High income,Latin America & Caribbean ,40654
+Sub-Saharan Africa excluding South Africa,A4,NA,NA,Aggregates,Aggregates,NA
+Seychelles,SC,55.4466,-4.6309,High income,Sub-Saharan Africa ,96762
+Syrian Arab Republic,SY,36.3119,33.5146,Low income,Middle East & North Africa,16906283
+Turks and Caicos Islands,TC,-71.141389,21.4602778,High income,Latin America & Caribbean ,37665
+Chad,TD,15.0445,12.1048,Low income,Sub-Saharan Africa ,15477751
+East Asia & Pacific (IDA & IBRD countries),T4,NA,NA,Aggregates,Aggregates,NA
+Europe & Central Asia (IDA & IBRD countries),T7,NA,NA,Aggregates,Aggregates,NA
+Togo,TG,1.2255,6.1228,Low income,Sub-Saharan Africa ,7889094
+Thailand,TH,100.521,13.7308,Upper middle income,East Asia & Pacific,69428524
+Tajikistan,TJ,68.7864,38.5878,Low income,Europe & Central Asia,9100837
+Turkmenistan,TM,58.3794,37.9509,Upper middle income,Europe & Central Asia,5850908
+Latin America & the Caribbean (IDA & IBRD countries),T2,NA,NA,Aggregates,Aggregates,NA
+Timor-Leste,TL,125.567,-8.56667,Lower middle income,East Asia & Pacific,1267972
+Middle East & North Africa (IDA & IBRD countries),T3,NA,NA,Aggregates,Aggregates,NA
+Tonga,TO,-175.216,-21.136,Upper middle income,East Asia & Pacific,103197
+South Asia (IDA & IBRD),T5,NA,NA,Aggregates,Aggregates,NA
+Sub-Saharan Africa (IDA & IBRD countries),T6,NA,NA,Aggregates,Aggregates,NA
+Trinidad and Tobago,TT,-61.4789,10.6596,High income,Latin America & Caribbean ,1389858
+Tunisia,TN,10.21,36.7899,Lower middle income,Middle East & North Africa,11565204
+Turkey,TR,32.3606,39.7153,Upper middle income,Europe & Central Asia,82319724
+Tuvalu,TV,179.089567,-8.6314877,Upper middle income,East Asia & Pacific,11508
+"Taiwan, China",TW,NA,NA,High income,East Asia & Pacific,NA
+Tanzania,TZ,35.7382,-6.17486,Low income,Sub-Saharan Africa ,56318348
+Uganda,UG,32.5729,0.314269,Low income,Sub-Saharan Africa ,42723139
+Ukraine,UA,30.5038,50.4536,Lower middle income,Europe & Central Asia,44622516
+Upper middle income,XT,NA,NA,Aggregates,Aggregates,NA
+Uruguay,UY,-56.0675,-34.8941,High income,Latin America & Caribbean ,3449299
+United States,US,-77.032,38.8895,High income,North America,326687501
+Uzbekistan,UZ,69.269,41.3052,Lower middle income,Europe & Central Asia,32955400
+St. Vincent and the Grenadines,VC,-61.2653,13.2035,Upper middle income,Latin America & Caribbean ,110210
+"Venezuela, RB",VE,-69.8371,9.08165,Upper middle income,Latin America & Caribbean ,28870195
+British Virgin Islands,VG,-64.623056,18.431389,High income,Latin America & Caribbean ,29802
+Virgin Islands (U.S.),VI,-64.8963,18.3358,High income,Latin America & Caribbean ,106977
+Vietnam,VN,105.825,21.0069,Lower middle income,East Asia & Pacific,95540395
+Vanuatu,VU,168.321,-17.7404,Lower middle income,East Asia & Pacific,292680
+World,1W,NA,NA,Aggregates,Aggregates,NA
+Samoa,WS,-171.752,-13.8314,Upper middle income,East Asia & Pacific,196130
+Kosovo,XK,20.926,42.565,Upper middle income,Europe & Central Asia,1845300
+Sub-Saharan Africa excluding South Africa and Nigeria,A5,NA,NA,Aggregates,Aggregates,NA
+"Yemen, Rep.",YE,44.2075,15.352,Low income,Middle East & North Africa,28498687
+South Africa,ZA,28.1871,-25.746,Upper middle income,Sub-Saharan Africa ,57779622
+Zambia,ZM,28.2937,-15.3982,Lower middle income,Sub-Saharan Africa ,17351822
+Zimbabwe,ZW,31.0672,-17.8312,Lower middle income,Sub-Saharan Africa ,14439018

@@ -15,4 +15,16 @@ county_code %>%
   select(Country, code) 
 
 readr::write_csv(x = country_code, path = "./data/country_code.csv")
-%>% 
+
+
+wikip <- 'https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes'
+wp <- read_html(wikip)
+ccode <- wp %>% 
+  html_nodes("table") %>% 
+  html_table(fill = TRUE) %>% .[[1]] %>% 
+  filter(-1)
+  
+  
+  
+  
+  

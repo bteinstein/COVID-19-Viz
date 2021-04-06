@@ -1,0 +1,8 @@
+plot border color = #5d0101
+banner_panel = #480000
+info_panel = #3c0000
+caption color = #bc0022
+
+(github.com/bteinstein)
+
+ plot.background = element_rect(fill="black", colour = '#5d0101', size = 2)
